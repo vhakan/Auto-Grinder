@@ -6,7 +6,7 @@ Installation steps:
 <br>
 1: Edit config.json with your desired settings
 <br>
-You might need to install node.
+2: You might need to install node.
 <br>
 3: run `npm install `
 <br>
