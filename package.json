@@ -1,0 +1,18 @@
+{
+  "name": "vhakangrinder",
+  "version": "0.0.1",
+  "description": "Auto Grinder for khemx bot or other bots.",
+  "main": "vhakangrinder.js",
+  "scripts": {
+    "test": "node vhakangrinder.js"
+  },
+  "author": "vhakangrinder",
+  "license": "MIT",
+  "keywords": [
+    "vhakangrinder"
+  ],
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "express": "^4.18.1"
+  }
+}
